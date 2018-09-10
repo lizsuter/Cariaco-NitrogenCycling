@@ -1,0 +1,6 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	1.087	1.0000
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	ANO58179	1.087	1.0000

@@ -1,0 +1,17 @@
+#total reads: 1102
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+metagenome_nirS_contig_1344_contig_1345	2.202	2.000	565	565	1.000
+metagenome_nirS_contig_514_contig_515	2.117	2.000	436	436	1.000
+metagenome_nirS_contig_1454_contig_1455	2.895	3.000	466	466	1.000
+metagenome_nirS_contig_394_contig_395	1.969	2.000	619	619	1.000
+metagenome_nirS_contig_80_contig_81	1.817	2.000	1003	1003	1.000
+metagenome_nirS_contig_614_contig_615	37.076	38.667	436	436	1.000
+metagenome_nirS_contig_636_contig_637	31.162	37.333	436	436	1.000
+metagenome_nirS_contig_332_contig_333	6.058	6.000	433	433	1.000
+metagenome_nirS_contig_1190_contig_1191	5.613	5.000	430	430	1.000
+metagenome_nirS_contig_1198_contig_1199	59.290	77.000	517	517	1.000
+metagenome_nirS_contig_106_contig_107	1.988	2.000	436	436	1.000
+metagenome_nirS_contig_348_contig_349	43.344	38.667	436	436	1.000
+metagenome_nirS_contig_1200_contig_1201	2.534	3.000	430	430	1.000
+metagenome_nirS_contig_378_contig_379	3.679	3.333	436	436	1.000

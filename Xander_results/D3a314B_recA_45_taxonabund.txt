@@ -1,0 +1,30 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=434964..435986,organism=endosymbiont of Bathymodiolus septemdierum str. Myojin knoll,definition=recombination protein RecA	4.736	0.0473
+coded_by=848878..850011,organism=Blautia sp. YL58,definition=recombinase RecA	2.936	0.0293
+coded_by=316..1398,organism=Acidobacteria bacterium SCGC AG-212-P17,definition=DNA recombination/repair protein RecA	1.855	0.0185
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	1.592	0.0159
+coded_by=complement(10066..11127),organism=candidate division Zixibacteria bacterium SM23_81,definition=recombinase RecA	5.454	0.0545
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	2.993	0.0299
+coded_by=515117..516151,organism=Gluconobacter oxydans H24,definition=RecA	6.866	0.0686
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	48.301	0.4827
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	5.596	0.0559
+coded_by=complement(5113..6165),organism=Clostridium botulinum C/D str. BKT12695,definition=recombinase RecA	4.458	0.0446
+coded_by=3834286..3835368,organism=Acidobacterium capsulatum ATCC 51196,definition=recA protein	9.173	0.0917
+coded_by=complement(2415848..2416906),organism=Clostridium perfringens,definition=recombinase RecA	3.056	0.0305
+coded_by=70147..71229,organism=Nitrospina gracilis 3/211,definition=Recombinase RecA	3.048	0.0305
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(2415848..2416906),organism=Clostridium perfringens,definition=recombinase RecA	AMN36187	3.056	0.0305
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	AFI84487	5.596	0.0559
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	CEO93792	1.592	0.0159
+coded_by=70147..71229,organism=Nitrospina gracilis 3/211,definition=Recombinase RecA	CCQ92201	3.048	0.0305
+coded_by=515117..516151,organism=Gluconobacter oxydans H24,definition=RecA	AFW00121	6.866	0.0686
+coded_by=848878..850011,organism=Blautia sp. YL58,definition=recombinase RecA	ANU74968	2.936	0.0293
+coded_by=complement(5113..6165),organism=Clostridium botulinum C/D str. BKT12695,definition=recombinase RecA	KEH97895	4.458	0.0446
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	ANO58179	2.993	0.0299
+coded_by=complement(10066..11127),organism=candidate division Zixibacteria bacterium SM23_81,definition=recombinase RecA	KPL18189	5.454	0.0545
+coded_by=316..1398,organism=Acidobacteria bacterium SCGC AG-212-P17,definition=DNA recombination/repair protein RecA	OAI57587	1.855	0.0185
+coded_by=3834286..3835368,organism=Acidobacterium capsulatum ATCC 51196,definition=recA protein	ACO33353	9.173	0.0917
+coded_by=434964..435986,organism=endosymbiont of Bathymodiolus septemdierum str. Myojin knoll,definition=recombination protein RecA	BAS67462	4.736	0.0473
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	EMR12940	48.301	0.4827

@@ -1,0 +1,6 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=5544692..5545834,organism=Pseudomonas entomophila L48,definition=copper-containing nitrite reductase (NO-forming)	2.987	1.0000
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=5544692..5545834,organism=Pseudomonas entomophila L48,definition=copper-containing nitrite reductase (NO-forming)	CAK17851	2.987	1.0000

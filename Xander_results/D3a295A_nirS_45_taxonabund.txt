@@ -1,0 +1,10 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	41.681000000000004	0.5248
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	35.478	0.4467
+coded_by=3057938..3060007,organism=Anaerolinea thermophila UNI-1,definition=nitrite reductase	2.271	0.0286
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ53626	35.478	0.4467
+coded_by=3057938..3060007,organism=Anaerolinea thermophila UNI-1,definition=nitrite reductase	BAJ64797	2.271	0.0286
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	41.681000000000004	0.5248

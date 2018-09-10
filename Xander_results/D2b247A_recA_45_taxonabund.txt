@@ -1,0 +1,40 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(8774..9844),organism=hydrothermal vent metagenome,definition=RecA protein	4.897	0.0593
+coded_by=2242..3342,organism=Firmicutes bacterium CAG:238,definition=recA protein	1.506	0.0182
+coded_by=944255..945331,organism=Rhodospirillum centenum SW,definition=RecA protein	1.839	0.0223
+coded_by=434964..435986,organism=endosymbiont of Bathymodiolus septemdierum str. Myojin knoll,definition=recombination protein RecA	2.33	0.0282
+coded_by=173217..174305,organism=Anaerolinea thermophila UNI-1,definition=protein RecA	1.822	0.0221
+coded_by=complement(1837496..1838554),organism=Clostridium perfringens SM101,definition=recA protein	1.937	0.0235
+coded_by=complement(2857551..2858639),organism=Ensifer adhaerens OV14,definition=RecA protein	4.807	0.0582
+coded_by=complement(1695119..1696162),organism=Alkalilimnicola ehrlichii MLHE-1,definition=recA protein	2.506	0.0304
+coded_by=complement(3235..4278),organism=Gammaproteobacteria bacterium SG8_47,definition=recombinase RecA	5.657	0.0685
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	4.155	0.0503
+coded_by=complement(2037647..2038729),organism=Hoeflea phototrophica DFL-43,definition=protein RecA	3.459	0.0419
+coded_by=189871..191046,organism=Phycisphaera mikurensis NBRC 102666,definition=protein RecA	2.053	0.0249
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	9.355	0.1133
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	24.319000000000003	0.2946
+coded_by=9267..10292,organism=Dehalococcoidia bacterium DG_18,definition=recombinase RecA	1.401	0.0170
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	4.689	0.0568
+coded_by=6022..7104,organism=mine drainage metagenome,definition=Protein recA (Recombinase A)	3.987	0.0483
+coded_by=325264..326364,organism=Candidatus Jettenia caeni,definition=recombinase RecA	1.828	0.0221
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=2242..3342,organism=Firmicutes bacterium CAG:238,definition=recA protein	CDA90477	1.506	0.0182
+coded_by=189871..191046,organism=Phycisphaera mikurensis NBRC 102666,definition=protein RecA	BAM02333	2.053	0.0249
+coded_by=complement(8774..9844),organism=hydrothermal vent metagenome,definition=RecA protein	CUS49750	4.897	0.0593
+coded_by=173217..174305,organism=Anaerolinea thermophila UNI-1,definition=protein RecA	BAJ62186	1.822	0.0221
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	KLR60413	9.355	0.1133
+coded_by=complement(1837496..1838554),organism=Clostridium perfringens SM101,definition=recA protein	ABG85729	1.937	0.0235
+coded_by=434964..435986,organism=endosymbiont of Bathymodiolus septemdierum str. Myojin knoll,definition=recombination protein RecA	BAS67462	2.33	0.0282
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	KRO54926	4.689	0.0568
+coded_by=9267..10292,organism=Dehalococcoidia bacterium DG_18,definition=recombinase RecA	KPJ54608	1.401	0.0170
+coded_by=complement(2037647..2038729),organism=Hoeflea phototrophica DFL-43,definition=protein RecA	EDQ33485	3.459	0.0419
+coded_by=complement(2857551..2858639),organism=Ensifer adhaerens OV14,definition=RecA protein	AHK44485	4.807	0.0582
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	ANO58179	4.155	0.0503
+coded_by=944255..945331,organism=Rhodospirillum centenum SW,definition=RecA protein	ACI98329	1.839	0.0223
+coded_by=6022..7104,organism=mine drainage metagenome,definition=Protein recA (Recombinase A)	CBH99986	3.987	0.0483
+coded_by=complement(3235..4278),organism=Gammaproteobacteria bacterium SG8_47,definition=recombinase RecA	KPK40703	5.657	0.0685
+coded_by=325264..326364,organism=Candidatus Jettenia caeni,definition=recombinase RecA	GAB61162	1.828	0.0221
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	EMR12940	24.319000000000003	0.2946
+coded_by=complement(1695119..1696162),organism=Alkalilimnicola ehrlichii MLHE-1,definition=recA protein	ABI56832	2.506	0.0304

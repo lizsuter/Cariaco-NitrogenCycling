@@ -1,0 +1,34 @@
+#total reads: 351
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+metagenome_recA_contig_25496_contig_25497	0.565	0.500	979	979	1.000
+metagenome_recA_contig_10754_contig_10755	1.259	1.000	907	907	1.000
+metagenome_recA_contig_21296_contig_21297	2.190	2.000	517	517	1.000
+metagenome_recA_contig_44338_contig_44339	1.512	1.000	901	901	1.000
+metagenome_recA_contig_5106_contig_5107	2.542	3.000	472	472	1.000
+metagenome_recA_contig_13070_contig_13071	0.609	0.500	433	433	1.000
+metagenome_recA_contig_20184_contig_20185	2.727	3.000	499	499	1.000
+metagenome_recA_contig_5040_contig_5041	1.897	1.000	409	409	1.000
+metagenome_recA_contig_47452_contig_47453	1.066	1.000	439	439	1.000
+metagenome_recA_contig_17932_contig_17933	0.933	1.000	553	553	1.000
+metagenome_recA_contig_40158_contig_40159	0.708	0.400	967	967	1.000
+metagenome_recA_contig_10_contig_11	0.960	0.500	949	949	1.000
+metagenome_recA_contig_6286_contig_6287	3.678	3.000	931	931	1.000
+metagenome_recA_contig_41722_contig_41723	0.510	0.400	838	838	1.000
+metagenome_recA_contig_6350_contig_6351	1.312	1.000	520	520	1.000
+metagenome_recA_contig_16138_contig_16139	1.419	1.000	580	580	1.000
+metagenome_recA_contig_600_contig_601	1.611	2.000	832	832	1.000
+metagenome_recA_contig_6650_contig_6651	2.109	1.000	442	442	1.000
+metagenome_recA_contig_16120_contig_16121	2.006	2.000	901	901	1.000
+metagenome_recA_contig_48416_contig_48417	0.535	0.500	967	967	1.000
+metagenome_recA_contig_27052_contig_27053	1.259	1.000	424	424	1.000
+metagenome_recA_contig_8312_contig_8313	0.662	0.500	769	769	1.000
+metagenome_recA_contig_48264_contig_48265	1.022	1.000	469	469	1.000
+metagenome_recA_contig_15280_contig_15281	1.102	1.000	586	586	1.000
+metagenome_recA_contig_456_contig_457	2.537	2.000	712	712	1.000
+metagenome_recA_contig_38468_contig_38469	0.548	0.400	823	823	1.000
+metagenome_recA_contig_23314_contig_23315	1.074	1.000	469	469	1.000
+metagenome_recA_contig_13474_contig_13475	1.179	1.000	571	571	1.000
+metagenome_recA_contig_3232_contig_3233	2.800	3.000	823	823	1.000
+metagenome_recA_contig_10332_contig_10333	2.506	2.000	433	433	1.000
+metagenome_recA_contig_4740_contig_4741	2.027	2.000	949	949	1.000

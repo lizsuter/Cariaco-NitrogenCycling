@@ -1,0 +1,18 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=70358..71974,organism=Bellilinea caldifistulae,definition=nitrite reductase	2.029	0.0253
+coded_by=58617..60293,organism=Labrenzia alba,definition=Nitrite reductase precursor	15.931	0.1989
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	35.71	0.4459
+coded_by=complement(36509..38224),organism=Tepidiphilus thermophilus,definition=dissimilatory nitrite reductase (NO-forming), cytochrome cd1 type apoprotein	1.759	0.0220
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	16.062	0.2006
+coded_by=3057938..3060007,organism=Anaerolinea thermophila UNI-1,definition=nitrite reductase	4.379	0.0547
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	4.208	0.0525
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ53626	16.062	0.2006
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	AKH22159	4.208	0.0525
+coded_by=70358..71974,organism=Bellilinea caldifistulae,definition=nitrite reductase	KPL78197	2.029	0.0253
+coded_by=complement(36509..38224),organism=Tepidiphilus thermophilus,definition=dissimilatory nitrite reductase (NO-forming), cytochrome cd1 type apoprotein	CUB07681	1.759	0.0220
+coded_by=58617..60293,organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ63333	15.931	0.1989
+coded_by=3057938..3060007,organism=Anaerolinea thermophila UNI-1,definition=nitrite reductase	BAJ64797	4.379	0.0547
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	35.71	0.4459

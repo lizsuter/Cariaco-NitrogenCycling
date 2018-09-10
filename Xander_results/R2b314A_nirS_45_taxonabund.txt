@@ -1,0 +1,8 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	5.692	0.6018
+coded_by=1402..3030,organism=endosymbiont of Riftia pachyptila (vent Ph05),definition=cytochrome cd1 nitrite reductase	3.766	0.3982
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=1402..3030,organism=endosymbiont of Riftia pachyptila (vent Ph05),definition=cytochrome cd1 nitrite reductase	EGV50662	3.766	0.3982
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	5.692	0.6018

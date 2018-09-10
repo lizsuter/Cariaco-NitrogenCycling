@@ -1,0 +1,22 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	5.08	0.2129
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	4.493	0.1883
+coded_by=12964..13995,organism=Gammaproteobacteria bacterium SG8_31,definition=recombinase RecA	1.441	0.0604
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	4.341	0.1819
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	1.681	0.0704
+coded_by=complement(2367908..2368945),organism=Microbulbifer thermotolerans,definition=DNA recombination/repair protein RecA	2.384	0.0999
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	0.878	0.0368
+coded_by=8684..9730,organism=uncultured bacterium,definition=RecA bacterial DNA recombination protein	1.785	0.0748
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	1.78	0.0746
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	CEO93792	1.681	0.0704
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	OCW76835	4.341	0.1819
+coded_by=complement(2367908..2368945),organism=Microbulbifer thermotolerans,definition=DNA recombination/repair protein RecA	AMX02871	2.384	0.0999
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	KLR60413	5.08	0.2129
+coded_by=12964..13995,organism=Gammaproteobacteria bacterium SG8_31,definition=recombinase RecA	KPK57299	1.441	0.0604
+coded_by=8684..9730,organism=uncultured bacterium,definition=RecA bacterial DNA recombination protein	CAX83753	1.785	0.0748
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	KUK31480	1.78	0.0746
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	EMR12940	4.493	0.1883
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	KRO54926	0.878	0.0368

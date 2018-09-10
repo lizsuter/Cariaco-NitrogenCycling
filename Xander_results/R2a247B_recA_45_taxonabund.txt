@@ -1,0 +1,8 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=1575962..1577002,organism=Methylophaga aminisulfidivorans MP,definition=recA/RadA recombinase	7.262	0.6802
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	3.415	0.3198
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	AFI84487	3.415	0.3198
+coded_by=1575962..1577002,organism=Methylophaga aminisulfidivorans MP,definition=recA/RadA recombinase	EGL55519	7.262	0.6802

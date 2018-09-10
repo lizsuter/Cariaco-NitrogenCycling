@@ -1,0 +1,6 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	1.823	1.0000
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	1.823	1.0000

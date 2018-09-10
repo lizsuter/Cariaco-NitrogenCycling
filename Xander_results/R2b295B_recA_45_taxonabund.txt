@@ -1,0 +1,8 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(2021865..2022929),organism=Kurthia sp. 11kri321,definition=protein RecA	2.804	0.3504
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	5.199	0.6496
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	OCW76835	5.199	0.6496
+coded_by=complement(2021865..2022929),organism=Kurthia sp. 11kri321,definition=protein RecA	AMA63391	2.804	0.3504

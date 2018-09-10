@@ -1,0 +1,4 @@
+#total reads: 6
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+metagenome_nirS_contig_34_contig_35	1.635	1.000	436	436	1.000

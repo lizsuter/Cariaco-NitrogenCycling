@@ -1,0 +1,10 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(470321..471448),organism=Afipia sp. 1NLS2,definition=nitrite reductase, copper-containing protein	1.6	0.1982
+coded_by=16..1146,organism=Ochrobactrum anthropi,definition=nitrite reductase	1.595	0.1975
+coded_by=complement(1028114..1029244),organism=Brucella melitensis bv. 1 str. 16M,definition=copper-containing nitrite reductase precursor	4.8790000000000004	0.6043
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=16..1146,organism=Ochrobactrum anthropi,definition=nitrite reductase	AAX10149	1.595	0.1975
+coded_by=complement(1028114..1029244),organism=Brucella melitensis bv. 1 str. 16M,definition=copper-containing nitrite reductase precursor	AAL54230	4.8790000000000004	0.6043
+coded_by=complement(470321..471448),organism=Afipia sp. 1NLS2,definition=nitrite reductase, copper-containing protein	EFI52480	1.6	0.1982

@@ -1,0 +1,148 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(517150..518229),organism=Opitutaceae bacterium TAV5,definition=recombinase RecA	1.926	0.0100
+coded_by=113045..114079,organism=Paraglaciecola sp. S66,definition=DNA recombination/repair protein RecA	1.324	0.0068
+coded_by=16848..17897,organism=Odoribacter sp. CAG:788,definition=protein RecA	1.238	0.0064
+coded_by=complement(33154..34206),organism=Thiocapsa sp. KS1,definition=Protein recA (Recombinase A)	1.991	0.0103
+coded_by=complement(4293060..4294115),organism=Methylomonas methanica MC09,definition=Protein recA	1.021	0.0053
+coded_by=complement(262976..264127),organism=Candidatus Pelagibacter ubique HTCC1002,definition=recA protein	0.513	0.0027
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	6.753	0.0349
+coded_by=complement(4106261..4107289),organism=Acidobacteria bacterium DSM 100886,definition=Recombinase A	5.0120000000000005	0.0259
+coded_by=545220..546317,organism=uncultured Desulfobacterium sp.,definition=Protein recA	0.576	0.0030
+coded_by=complement(4178..5203),organism=Sorangium cellulosum,definition=DNA recombination/repair protein RecA	1.618	0.0084
+coded_by=complement(568045..569127),organism=Caulobacteraceae bacterium OTSz_A_272,definition=DNA recombination/repair protein RecA	2.494	0.0129
+coded_by=complement(8092192..8093331),organism=Haliangium ochraceum DSM 14365,definition=recA protein	10.09	0.0522
+coded_by=complement(3004018..3005094),organism=Ilumatobacter coccineus YM16-304,definition=RecA protein	1.825	0.0094
+coded_by=1607618..1608730,organism=Candidatus Nitrospira defluvii,definition=Recombinase RecA	0.53	0.0027
+coded_by=325264..326364,organism=Candidatus Jettenia caeni,definition=recombinase RecA	3.482	0.0180
+coded_by=complement(3664064..3665209),organism=Chondromyces crocatus,definition=recombinase RecA	1.538	0.0080
+coded_by=7547..8740,organism=Clostridium sp. CAG:273,definition=protein RecA	3.117	0.0161
+coded_by=1336952..1337989,organism=Tepidanaerobacter acetatoxydans Re1,definition=Protein recA	1.93	0.0100
+coded_by=complement(3088698..3089753),organism=Woeseia oceani,definition=recombinase RecA	1.879	0.0097
+coded_by=complement(2110586..2111626),organism=Thiolapillus brandeum,definition=recombination protein RecA	1.367	0.0071
+coded_by=complement(223800..224846),organism=Marinobacter sp. EhC06,definition=recombinase RecA	1.926	0.0100
+coded_by=1639537..1640595,organism=Jeotgalibacillus malaysiensis,definition=protein RecA	1.663	0.0086
+coded_by=2247023..2248102,organism=Azospirillum thiophilum,definition=recombinase RecA	1.03	0.0053
+coded_by=2043355..2044383,organism=Spongiibacter sp. IMCC21906,definition=protein RecA	2.541	0.0131
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	1.665	0.0086
+coded_by=866350..867519,organism=Actinobacteria bacterium IMCC26256,definition=protein RecA	1.29	0.0067
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	3.052	0.0158
+coded_by=complement(134..1264),organism=mine drainage metagenome,definition=recombinase A	1.529	0.0079
+coded_by=189871..191046,organism=Phycisphaera mikurensis NBRC 102666,definition=protein RecA	6.263	0.0324
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	10.780999999999999	0.0557
+coded_by=764751..765803,organism=Spiribacter salinus M19-40,definition=recA protein	0.679	0.0035
+coded_by=1896233..1897264,organism=Fluviicola taffensis DSM 16823,definition=Protein recA	3.093	0.0160
+coded_by=13795..14826,organism=Gammaproteobacteria bacterium SG8_31,definition=recombinase RecA	1.112	0.0057
+coded_by=complement(2367908..2368945),organism=Microbulbifer thermotolerans,definition=DNA recombination/repair protein RecA	1.323	0.0068
+coded_by=complement(2818529..2819569),organism=Candidatus Tenderia electrophaga,definition=DNA recombination/repair protein RecA	1.354	0.0070
+coded_by=1..1080,organism=Oceanicola batsensis HTCC2597,definition=Sequence 646 from Patent WO2010037714	0.501	0.0026
+coded_by=284021..285115,organism=Hirschia baltica ATCC 49814,definition=recA protein	3.6660000000000004	0.0190
+coded_by=4938335..4939411,organism=Pirellula staleyi DSM 6068,definition=recA protein	1.011	0.0052
+coded_by=complement(83053..84222),organism=Pedosphaera parvula Ellin514,definition=recA protein	8.6	0.0445
+coded_by=34973..36058,organism=Myxococcales bacterium SG8_38,definition=recombinase RecA	2.372	0.0123
+coded_by=1562157..1563215,organism=Pseudohongiella spirulinae,definition=recombinase RecA	1.557	0.0080
+coded_by=1023575..1024621,organism=Alteromonas macleodii str. 'Deep ecotype',definition=recombinase A	7.082	0.0366
+coded_by=1312190..1313332,organism=Cryobacterium arcticum,definition=recombinase RecA	3.645	0.0188
+coded_by=1430..>2449,organism=Sorangium cellulosum,definition=DNA recombination/repair protein RecA	1.689	0.0087
+coded_by=335..1369,organism=Calyptogena fossajaponica symbiont,definition=recombination protein RecA	1.322	0.0068
+coded_by=326534..327619,organism=Candidatus Microthrix parvicella RN1,definition=recA protein	1.458	0.0075
+coded_by=complement(20257..21324),organism=Clostridium sp. CAG:632,definition=protein RecA	2.169	0.0112
+coded_by=complement(12421..13455),organism=Microgenomates (Gottesmanbacteria) bacterium GW2011_GWC2_39_8,definition=Protein RecA	1.625	0.0084
+coded_by=119321..120352,organism=Winogradskyella psychrotolerans RS-3,definition=RecA protein	1.391	0.0072
+coded_by=551643..552707,organism=marine sediment metagenome,definition=hypothetical protein	2.1550000000000002	0.0111
+coded_by=complement(1040391..1041446),organism=Desulfuromonas soudanensis,definition=recombinase RecA	3.552	0.0184
+coded_by=1405163..1406212,organism=Pseudoalteromonas sp. OCN003,definition=recombinase RecA	1.502	0.0078
+coded_by=complement(8774..9844),organism=hydrothermal vent metagenome,definition=RecA protein	2.866	0.0148
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	8.355	0.0432
+coded_by=complement(40840..41958),organism=Thiohalorhabdus denitrificans,definition=recombinase RecA	1.783	0.0092
+coded_by=complement(2404625..2405707),organism=Parvularcula bermudensis HTCC2503,definition=recombinase A	2.332	0.0121
+coded_by=complement(2857551..2858639),organism=Ensifer adhaerens OV14,definition=RecA protein	3.972	0.0205
+coded_by=complement(<1..1111),organism=uncultured bacterium,definition=predicted recombination protein RecA	0.788	0.0041
+coded_by=complement(1252762..1253820),organism=Altererythrobacter marensis,definition=Protein RecA	1.671	0.0086
+coded_by=17789..18847,organism=Ectothiorhodospira sp. PHS-1,definition=recombinase A	1.282	0.0066
+coded_by=complement(10066..11127),organism=candidate division Zixibacteria bacterium SM23_81,definition=recombinase RecA	2.886	0.0149
+coded_by=5480..6556,organism=Nitrospina sp. SCGC_AAA799_C22,definition=recombinase RecA	1.655	0.0086
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	4.602	0.0238
+coded_by=2367294..2368334,organism=Heliobacterium modesticaldum Ice1,definition=reca protein	1.013	0.0052
+coded_by=complement(10657..11718),organism=Youngiibacter fragilis 232.1,definition=recombinase RecA	1.911	0.0099
+coded_by=223133..224290,organism=alpha proteobacterium HIMB5,definition=RecA protein	2.552	0.0132
+coded_by=complement(283185..284282),organism=Hyphomonas adhaerens MHS-3,definition=recA protein	0.491	0.0025
+coded_by=9267..10292,organism=Dehalococcoidia bacterium DG_18,definition=recombinase RecA	1.984	0.0103
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	12.863000000000001	0.0665
+coded_by=2617761..2618822,organism=Clostridium pasteurianum BC1,definition=protein RecA	1.229	0.0064
+coded_by=complement(100083..101111),organism=Roseivirga sp. D-25,definition=recombinase RecA	2.572	0.0133
+coded_by=complement(438235..439278),organism=Caloranaerobacter sp. TR13,definition=recombinase RecA	1.802	0.0093
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=866350..867519,organism=Actinobacteria bacterium IMCC26256,definition=protein RecA	AKL73124	1.29	0.0067
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	OCW76835	8.355	0.0432
+coded_by=13795..14826,organism=Gammaproteobacteria bacterium SG8_31,definition=recombinase RecA	KPK57861	1.112	0.0057
+coded_by=189871..191046,organism=Phycisphaera mikurensis NBRC 102666,definition=protein RecA	BAM02333	6.263	0.0324
+coded_by=complement(2367908..2368945),organism=Microbulbifer thermotolerans,definition=DNA recombination/repair protein RecA	AMX02871	1.323	0.0068
+coded_by=complement(8774..9844),organism=hydrothermal vent metagenome,definition=RecA protein	CUS49750	2.866	0.0148
+coded_by=complement(3088698..3089753),organism=Woeseia oceani,definition=recombinase RecA	ANO53258	1.879	0.0097
+coded_by=1562157..1563215,organism=Pseudohongiella spirulinae,definition=recombinase RecA	ALO46069	1.557	0.0080
+coded_by=1336952..1337989,organism=Tepidanaerobacter acetatoxydans Re1,definition=Protein recA	AEE91437	1.93	0.0100
+coded_by=119321..120352,organism=Winogradskyella psychrotolerans RS-3,definition=RecA protein	EPR72315	1.391	0.0072
+coded_by=1430..>2449,organism=Sorangium cellulosum,definition=DNA recombination/repair protein RecA	KYF81306	1.689	0.0087
+coded_by=complement(568045..569127),organism=Caulobacteraceae bacterium OTSz_A_272,definition=DNA recombination/repair protein RecA	ANP44953	2.494	0.0129
+coded_by=1023575..1024621,organism=Alteromonas macleodii str. 'Deep ecotype',definition=recombinase A	AEA97093	7.082	0.0366
+coded_by=2043355..2044383,organism=Spongiibacter sp. IMCC21906,definition=protein RecA	AKH69579	2.541	0.0131
+coded_by=complement(83053..84222),organism=Pedosphaera parvula Ellin514,definition=recA protein	EEF61540	8.6	0.0445
+coded_by=complement(438235..439278),organism=Caloranaerobacter sp. TR13,definition=recombinase RecA	KPU28157	1.802	0.0093
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	EMR12940	10.780999999999999	0.0557
+coded_by=complement(3004018..3005094),organism=Ilumatobacter coccineus YM16-304,definition=RecA protein	BAN03020	1.825	0.0094
+coded_by=2247023..2248102,organism=Azospirillum thiophilum,definition=recombinase RecA	ALG71249	1.03	0.0053
+coded_by=1312190..1313332,organism=Cryobacterium arcticum,definition=recombinase RecA	ANP72115	3.645	0.0188
+coded_by=complement(33154..34206),organism=Thiocapsa sp. KS1,definition=Protein recA (Recombinase A)	CRI67619	1.991	0.0103
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	KLR60413	6.753	0.0349
+coded_by=complement(223800..224846),organism=Marinobacter sp. EhC06,definition=recombinase RecA	OAN93606	1.926	0.0100
+coded_by=2617761..2618822,organism=Clostridium pasteurianum BC1,definition=protein RecA	AGK97462	1.229	0.0064
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	KRO54926	12.863000000000001	0.0665
+coded_by=complement(40840..41958),organism=Thiohalorhabdus denitrificans,definition=recombinase RecA	KPV40572	1.783	0.0092
+coded_by=complement(<1..1111),organism=uncultured bacterium,definition=predicted recombination protein RecA	AAY82716	0.788	0.0041
+coded_by=complement(3664064..3665209),organism=Chondromyces crocatus,definition=recombinase RecA	AKT38629	1.538	0.0080
+coded_by=complement(517150..518229),organism=Opitutaceae bacterium TAV5,definition=recombinase RecA	AHF89340	1.926	0.0100
+coded_by=complement(4178..5203),organism=Sorangium cellulosum,definition=DNA recombination/repair protein RecA	KYF83178	1.618	0.0084
+coded_by=335..1369,organism=Calyptogena fossajaponica symbiont,definition=recombination protein RecA	BAK82133	1.322	0.0068
+coded_by=complement(8092192..8093331),organism=Haliangium ochraceum DSM 14365,definition=recA protein	ACY18378	10.09	0.0522
+coded_by=1..1080,organism=Oceanicola batsensis HTCC2597,definition=Sequence 646 from Patent WO2010037714	CBL85468	0.501	0.0026
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	CEO93792	1.665	0.0086
+coded_by=complement(2818529..2819569),organism=Candidatus Tenderia electrophaga,definition=DNA recombination/repair protein RecA	ALP53961	1.354	0.0070
+coded_by=complement(100083..101111),organism=Roseivirga sp. D-25,definition=recombinase RecA	KOF02643	2.572	0.0133
+coded_by=complement(4293060..4294115),organism=Methylomonas methanica MC09,definition=Protein recA	AEG02229	1.021	0.0053
+coded_by=complement(4106261..4107289),organism=Acidobacteria bacterium DSM 100886,definition=Recombinase A	AMY10149	5.0120000000000005	0.0259
+coded_by=complement(20257..21324),organism=Clostridium sp. CAG:632,definition=protein RecA	CCY58873	2.169	0.0112
+coded_by=113045..114079,organism=Paraglaciecola sp. S66,definition=DNA recombination/repair protein RecA	KXI28126	1.324	0.0068
+coded_by=326534..327619,organism=Candidatus Microthrix parvicella RN1,definition=recA protein	CCM65781	1.458	0.0075
+coded_by=complement(262976..264127),organism=Candidatus Pelagibacter ubique HTCC1002,definition=recA protein	EAS84676	0.513	0.0027
+coded_by=complement(10657..11718),organism=Youngiibacter fragilis 232.1,definition=recombinase RecA	ETA81495	1.911	0.0099
+coded_by=551643..552707,organism=marine sediment metagenome,definition=hypothetical protein	KKO11936	2.1550000000000002	0.0111
+coded_by=complement(2857551..2858639),organism=Ensifer adhaerens OV14,definition=RecA protein	AHK44485	3.972	0.0205
+coded_by=complement(1040391..1041446),organism=Desulfuromonas soudanensis,definition=recombinase RecA	ALC15718	3.552	0.0184
+coded_by=5480..6556,organism=Nitrospina sp. SCGC_AAA799_C22,definition=recombinase RecA	KMP11258	1.655	0.0086
+coded_by=284021..285115,organism=Hirschia baltica ATCC 49814,definition=recA protein	ACT57960	3.6660000000000004	0.0190
+coded_by=325264..326364,organism=Candidatus Jettenia caeni,definition=recombinase RecA	GAB61162	3.482	0.0180
+coded_by=1607618..1608730,organism=Candidatus Nitrospira defluvii,definition=Recombinase RecA	CBK41438	0.53	0.0027
+coded_by=7547..8740,organism=Clostridium sp. CAG:273,definition=protein RecA	CDE83362	3.117	0.0161
+coded_by=1896233..1897264,organism=Fluviicola taffensis DSM 16823,definition=Protein recA	AEA43650	3.093	0.0160
+coded_by=545220..546317,organism=uncultured Desulfobacterium sp.,definition=Protein recA	CBX31146	0.576	0.0030
+coded_by=17789..18847,organism=Ectothiorhodospira sp. PHS-1,definition=recombinase A	EHQ53473	1.282	0.0066
+coded_by=764751..765803,organism=Spiribacter salinus M19-40,definition=recA protein	AGM40847	0.679	0.0035
+coded_by=34973..36058,organism=Myxococcales bacterium SG8_38,definition=recombinase RecA	KPK16863	2.372	0.0123
+coded_by=complement(1252762..1253820),organism=Altererythrobacter marensis,definition=Protein RecA	AKM07263	1.671	0.0086
+coded_by=4938335..4939411,organism=Pirellula staleyi DSM 6068,definition=recA protein	ADB18451	1.011	0.0052
+coded_by=complement(2110586..2111626),organism=Thiolapillus brandeum,definition=recombination protein RecA	BAO44853	1.367	0.0071
+coded_by=1639537..1640595,organism=Jeotgalibacillus malaysiensis,definition=protein RecA	AJD91070	1.663	0.0086
+coded_by=complement(10066..11127),organism=candidate division Zixibacteria bacterium SM23_81,definition=recombinase RecA	KPL18189	2.886	0.0149
+coded_by=16848..17897,organism=Odoribacter sp. CAG:788,definition=protein RecA	CCZ06679	1.238	0.0064
+coded_by=223133..224290,organism=alpha proteobacterium HIMB5,definition=RecA protein	AFS47002	2.552	0.0132
+coded_by=2367294..2368334,organism=Heliobacterium modesticaldum Ice1,definition=reca protein	ABZ84927	1.013	0.0052
+coded_by=complement(134..1264),organism=mine drainage metagenome,definition=recombinase A	EQD75765	1.529	0.0079
+coded_by=9267..10292,organism=Dehalococcoidia bacterium DG_18,definition=recombinase RecA	KPJ54608	1.984	0.0103
+coded_by=complement(283185..284282),organism=Hyphomonas adhaerens MHS-3,definition=recA protein	KCZ83107	0.491	0.0025
+coded_by=31118..32167,organism=uncultured gamma proteobacterium,definition=protein RecA	ANO58179	4.602	0.0238
+coded_by=complement(2404625..2405707),organism=Parvularcula bermudensis HTCC2503,definition=recombinase A	ADM10409	2.332	0.0121
+coded_by=1405163..1406212,organism=Pseudoalteromonas sp. OCN003,definition=recombinase RecA	AIY64811	1.502	0.0078
+coded_by=complement(12421..13455),organism=Microgenomates (Gottesmanbacteria) bacterium GW2011_GWC2_39_8,definition=Protein RecA	KKR33082	1.625	0.0084
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	KUK31480	3.052	0.0158

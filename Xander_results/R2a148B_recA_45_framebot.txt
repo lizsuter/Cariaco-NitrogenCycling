@@ -1,0 +1,68 @@
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	CAM77326	R2a148B_recA_contig_262_contig_263	828	276	70.652	1039	0	false
+Target   63 IGGLPRGRIIEIYGPESSGKTTLALHVLAEAQKKGGTCAFIDAEHALDPSYARKLGVNLD   122
+            ||| ||||| ||||||  |||||||| |||||| ||   ||||||| || || |||||  
+Query     1 IGGVPRGRIVEIYGPEMTGKTTLALHILAEAQKQGGYAVFIDAEHAMDPTYASKLGVNIK    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            agggcagcaggatgcgaagaaacgtcatgggcacggtggtagggcgagcatgaacggaaa
+            tggtcgggttatagcatcgacctctattcacaaaggactttacaactaccacgatgtata
+            tcacaaagcaacctaggaaacctaattatatgggctttactctatggtaacacgtgaccg
+
+Target  123 DLLISQPDAGEQALEICDTLVRSGAVDVLVVDSVAALVPRAELEGEMGDSHVGLHARLMS   182
+            |||||||| |||||||| |||||||||    ||||||||||||||||||||||| |||||
+Query    61 DLLISQPDTGEQALEICETLVRSGAVDIVIIDSVAALVPRAELEGEMGDSHVGLQARLMS   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gccatccgaggcgcgatgacgaaggggagaagtgggtgcaggcgggaggacggccgatat
+            atttcacacgaactatgacttgggctattttactccttcgcatagatgagatgtacgttc
+            tataggatgaaagggctaattacattttgtttagagacaaaatatagacttcttgagggc
+
+Target  183 QALRKLTGSVSKSKTIVIFINQIRMKIGVMFGNPETTTGGNALKFYASVRMEIRRVGAIK   242
+            |||||||| |||||| ||| |||| |||||||||| | || ||||| | | ||||  || 
+Query   121 QALRKLTGTVSKSKTCVIFVNQIREKIGVMFGNPEVTPGGRALKFYTSIRLEIRRLAAIQ   180
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cgcaatagagaataatgatgacacgaaggatgacggacggcgcattataccgacatggac
+            actgatcgctgacacgttttaatgaatgtttgacatccgggctatacctgtatggtccta
+            gataagagcgtatatccctccgctagtatgtattgctcatttcatctacagatgaggata
+
+Target  243 DRDEVVGNQTRVKVVKNKLAPPFKVVDFDIMYGEGISKTGELIDLGVKANVVEKSGAWFS   302
+                  ||   ||||||| ||||     |  ||||||  | | || | || | ||| | |
+Query   181 EEGQSIGNRVKVKVVKNKCAPPFRMTELDLIYGEGISYEGDLLDLAVTANIVNKSGSWYS   240
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gggctagacgagaggaaatgcctaaagcgtatgggattgggccgcggagaagaatgtttt
+            aagactgagtatattaaagccctgtcatattagagtcaagattatctccattaacgcgac
+            gaaacaacgaagagagcatttccggaattgatcgccctgattttgtgtgtagtgctagta
+
+Target  303 YNSTRVGQGRENAKQFLRDNPAMAGEIEATIRANAG   338
+            ||    |||||| |||| || |             |
+Query   241 YNDEKLGQGRENVKQFLIDNEAVLNNLDRDVKSFLG   276
+Frame       111111111111111111111111111111111111
+            taggacgcgcgagactcagagggtaacgaggattcg
+            aaaaatgaggaataatttaaacttaatagatacttg
+            ctcaattgatgcgggtgatcaatgttctacgaattt
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	CUA82932	R2a148B_recA_contig_2516_contig_2517	477	159	99.371	777	0	false
+Target    1 MSNDKQKALDAALGQIERQFGKGSIMRLGDNQAMDIESVSTGSLTLDIALGIGGLPFGRV    60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query     1 MSNDKQKALDAALGQIERQFGKGSIMRLGDNQAMDIESVSTGSLTLDIALGIGGLPFGRV    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            aaagacagcgggtgcagcctgagtaactggacgagagtgtagttatgagtgaggcctgcg
+            tgaaaaactacctgatagatgagcttgtgaaactatactccgctctatctgtggtctggt
+            gcctgaaattagacatgtattatatgcgcccatgtcaaaactaaaatcaatttcgatttt
+
+Target   61 VEIYGPESSGKTTLTLQVIAEAQKKGKTCAFVDAEHALDPVYAEKLGVNVDELLVSQPDT   120
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Query    61 VEIYGPESSGKTTLTLQVIAEAQKKGKTCAFVDAEHALDPIYAEKLGVNVDELLVSQPDT   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            ggatgcgtagaaatatcgagggcaagaatgtggggcgcgcatggacggagggtcgtccga
+            tatagcacggacctctattcacaaagacgcttacaactactacaatgtataatttcacac
+            catttagactaacatggttcaagaatactgttttgtgactttgaattacttaggtagccc
+
+Target  121 GEQALEICDMLVRSGAVDVVVVDSVAALTPRAEIEGEMG   159
+            |||||||||||||||||||||||||||||||||||||||
+Query   121 GEQALEICDMLVRSGAVDVVVVDSVAALTPRAEIEGEMG   159
+Frame       111111111111111111111111111111111111111
+            ggcgcgatgacgctgggggggggtgggtaccggagggag
+            gaactatgatttgcgctattttactcctccgcatagatg
+            tgaatgttcgcgtatcttctctctacgaagttatatagc
+

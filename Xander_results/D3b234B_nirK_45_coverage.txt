@@ -1,0 +1,10 @@
+#total reads: 51
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+metagenome_nirK_contig_292_contig_293	1.214	1.000	430	430	1.000
+metagenome_nirK_contig_288_contig_289	3.088	3.000	433	433	1.000
+metagenome_nirK_contig_0_contig_1	1.016	1.000	679	679	1.000
+metagenome_nirK_contig_14_contig_15	3.469	4.000	925	925	1.000
+metagenome_nirK_contig_6_contig_7	1.016	1.000	679	679	1.000
+metagenome_nirK_contig_68_contig_69	1.758	2.000	628	628	1.000
+metagenome_nirK_contig_106_contig_107	0.677	0.667	460	460	1.000

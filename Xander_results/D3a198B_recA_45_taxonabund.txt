@@ -1,0 +1,38 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(3088698..3089753),organism=Woeseia oceani,definition=recombinase RecA	2.008	0.0521
+coded_by=1336952..1337989,organism=Tepidanaerobacter acetatoxydans Re1,definition=Protein recA	1.407	0.0365
+coded_by=1575962..1577002,organism=Methylophaga aminisulfidivorans MP,definition=recA/RadA recombinase	1.938	0.0503
+coded_by=2830107..2831132,organism=Pelobacter carbinolicus DSM 2380,definition=recombinase A	1.123	0.0291
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	1.742	0.0452
+coded_by=complement(1837496..1838554),organism=Clostridium perfringens SM101,definition=recA protein	2.134	0.0553
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	7.491	0.1942
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	3.638	0.0943
+coded_by=5480..6556,organism=Nitrospina sp. SCGC_AAA799_C22,definition=recombinase RecA	0.872	0.0226
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	6.6209999999999996	0.1717
+coded_by=326534..327619,organism=Candidatus Microthrix parvicella RN1,definition=recA protein	1.545	0.0401
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	0.908	0.0235
+coded_by=complement(2239786..2240853),organism=Lysinibacillus contaminans,definition=recombinase RecA	1.264	0.0328
+coded_by=complement(3004018..3005094),organism=Ilumatobacter coccineus YM16-304,definition=RecA protein	1.361	0.0353
+coded_by=70147..71229,organism=Nitrospina gracilis 3/211,definition=Recombinase RecA	0.991	0.0257
+coded_by=complement(29633..30691),organism=Planomicrobium glaciei CHR43,definition=recombinase RecA	1.358	0.0352
+coded_by=8684..9730,organism=uncultured bacterium,definition=RecA bacterial DNA recombination protein	2.166	0.0562
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=3289..4314,organism=Bathymodiolus azoricus thioautotrophic gill symbiont,definition=recombinase RecA	CEO93792	7.491	0.1942
+coded_by=complement(1122..2246),organism=Pelagibacteraceae bacterium GOM-A1,definition=recombinase RecA	OCW76835	1.742	0.0452
+coded_by=complement(750513..751568),organism=Actinobacteria bacterium IMCC26207,definition=protein RecA	KLR60413	6.6209999999999996	0.1717
+coded_by=326534..327619,organism=Candidatus Microthrix parvicella RN1,definition=recA protein	CCM65781	1.545	0.0401
+coded_by=complement(3088698..3089753),organism=Woeseia oceani,definition=recombinase RecA	ANO53258	2.008	0.0521
+coded_by=complement(1837496..1838554),organism=Clostridium perfringens SM101,definition=recA protein	ABG85729	2.134	0.0553
+coded_by=8684..9730,organism=uncultured bacterium,definition=RecA bacterial DNA recombination protein	CAX83753	2.166	0.0562
+coded_by=1438..2574,organism=Pelagibacteraceae bacterium BACL5 MAG-121015-bin10,definition=DNA recombination/repair protein RecA	KRO54926	0.908	0.0235
+coded_by=1336952..1337989,organism=Tepidanaerobacter acetatoxydans Re1,definition=Protein recA	AEE91437	1.407	0.0365
+coded_by=complement(2239786..2240853),organism=Lysinibacillus contaminans,definition=recombinase RecA	KOS69392	1.264	0.0328
+coded_by=70147..71229,organism=Nitrospina gracilis 3/211,definition=Recombinase RecA	CCQ92201	0.991	0.0257
+coded_by=5480..6556,organism=Nitrospina sp. SCGC_AAA799_C22,definition=recombinase RecA	KMP11258	0.872	0.0226
+coded_by=complement(29633..30691),organism=Planomicrobium glaciei CHR43,definition=recombinase RecA	ETP68706	1.358	0.0352
+coded_by=1575962..1577002,organism=Methylophaga aminisulfidivorans MP,definition=recA/RadA recombinase	EGL55519	1.938	0.0503
+coded_by=2830107..2831132,organism=Pelobacter carbinolicus DSM 2380,definition=recombinase A	ABA89644	1.123	0.0291
+coded_by=13155..14198,organism=Thermoanaerobacterales bacterium 50_218,definition=Protein RecA	KUK31480	3.638	0.0943
+coded_by=complement(3004018..3005094),organism=Ilumatobacter coccineus YM16-304,definition=RecA protein	BAN03020	1.361	0.0353

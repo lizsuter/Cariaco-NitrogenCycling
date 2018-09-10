@@ -1,0 +1,14 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	13.65	0.1261
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	66.17	0.6115
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	19.903000000000002	0.1839
+coded_by=complement(605142..606899),organism=Polymorphum gilvum SL003B-26A1,definition=Cytochrome cd1 nitrite reductase	3.102	0.0287
+coded_by=1402..3030,organism=endosymbiont of Riftia pachyptila (vent Ph05),definition=cytochrome cd1 nitrite reductase	5.387	0.0498
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ53626	19.903000000000002	0.1839
+coded_by=complement(605142..606899),organism=Polymorphum gilvum SL003B-26A1,definition=Cytochrome cd1 nitrite reductase	ADZ69009	3.102	0.0287
+coded_by=1402..3030,organism=endosymbiont of Riftia pachyptila (vent Ph05),definition=cytochrome cd1 nitrite reductase	EGV50662	5.387	0.0498
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	66.17	0.6115
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	KKM16877	13.65	0.1261

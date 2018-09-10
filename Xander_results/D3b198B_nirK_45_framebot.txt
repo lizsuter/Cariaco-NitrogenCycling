@@ -1,0 +1,26 @@
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ABA56624	metagenome_nirK_contig_6_contig_7	453	151	85.430	695	0	false
+Target  219 NGKYKRYANAIEPYGDTLEVMRGLVPTHVTYNGSKGALTGDNAMKAKVGDSVLFIHSQAN   278
+            ||| ||| ||| |  ||| |||||||||||||| |||||||||| | ||  |||||||||
+Query     1 NGKFKRYNNAIAPFNDTLKVMRGLVPTHVTYNGKKGALTGDNAMHANVGEKVLFIHSQAN    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            agatactaagagctagatagacgtgcacgatagaaggtaggagacgagggagctactcga
+            agatagaaactcctaactattggttccatcaagaagctcgaactacatgaattttacaca
+            ccacaacctaaattcccaatgtcaaattgtcttaataaacttcgtcttagggattttacc
+
+Target  279 EDSRIHLIGGHGDLVWPGGSFKNTPMVDKETWHVNGGESVAALYTFKQPGLYAYLNHNLI   338
+            ||||||||||||||||||||| | | || ||||||||| |||||||||||||||||| ||
+Query    61 EDSRIHLIGGHGDLVWPGGSFNNVPTVDRETWHVNGGEAVAALYTFKQPGLYAYLNHDLI   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            ggtcaccaggcggtgtcggttaagcaggcgatcgagggggggctataccgctgtcacgta
+            aacgtattggagattgcggctaatcctagacgataggactcctactaacgtacataaatt
+            acgattcttttttgcggtcgtctcacactatgtctctgataaactcaatgttcctcttgt
+
+Target  339 QAFMLGGAAHVKVDGEWNNDLMEQVVKPSPI   369
+            ||||||||||| ||| |||||||||  | ||
+Query   121 QAFMLGGAAHVIVDGKWNNDLMEQVRPPAPI   151
+Frame       1111111111111111111111111111111
+            cgtacggggcgagggataagtagcgaccgca
+            actttggccatttagagaaattaatgcccct
+            gttggctattgagtcagtttggaataatgtt
+

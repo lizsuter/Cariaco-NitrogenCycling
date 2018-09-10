@@ -1,0 +1,6 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	1.775	1.0000
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	ABA56624	1.775	1.0000

@@ -1,0 +1,16 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(470321..471448),organism=Afipia sp. 1NLS2,definition=nitrite reductase, copper-containing protein	1.32	0.0818
+coded_by=5544692..5545834,organism=Pseudomonas entomophila L48,definition=copper-containing nitrite reductase (NO-forming)	5.837999999999999	0.3620
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	2.91	0.1804
+coded_by=complement(1028114..1029244),organism=Brucella melitensis bv. 1 str. 16M,definition=copper-containing nitrite reductase precursor	1.864	0.1156
+coded_by=1..1137,organism=Sinorhizobium sp. NP1,definition=nitrite reductase	2.181	0.1352
+coded_by=241303..242433,organism=Brucella suis 1330,definition=copper-containing nitrite reductase	2.016	0.1250
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=241303..242433,organism=Brucella suis 1330,definition=copper-containing nitrite reductase	AAN33462	2.016	0.1250
+coded_by=5544692..5545834,organism=Pseudomonas entomophila L48,definition=copper-containing nitrite reductase (NO-forming)	CAK17851	5.837999999999999	0.3620
+coded_by=complement(1028114..1029244),organism=Brucella melitensis bv. 1 str. 16M,definition=copper-containing nitrite reductase precursor	AAL54230	1.864	0.1156
+coded_by=1..1137,organism=Sinorhizobium sp. NP1,definition=nitrite reductase	ACM24772	2.181	0.1352
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	ABA56624	2.91	0.1804
+coded_by=complement(470321..471448),organism=Afipia sp. 1NLS2,definition=nitrite reductase, copper-containing protein	EFI52480	1.32	0.0818

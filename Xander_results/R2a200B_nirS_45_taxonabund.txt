@@ -1,0 +1,6 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	4.816	1.0000
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	KKM16877	4.816	1.0000

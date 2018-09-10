@@ -1,0 +1,26 @@
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	KZZ44618	R3b103A_recA_contig_1666_contig_1667	510	170	99.412	827	0	false
+Target   44 LGLDIALGIGGLPMGRIVEIYGPESSGKTTMCLSAMAQAQKAGKTVAIIDAEHALDPLYA   103
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query     1 LGLDIALGIGGLPMGRIVEIYGPESSGKTTMCLSAMAQAQKAGKTVAIIDAEHALDPLYA    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cgtgagcgaggccagcaggatgcgatgaaaatttgagcgcaggaaggaagggcgcgcttg
+            tgtatctgtggtctggttatagcagcgacctgtcctcacaacgactcttacaactactac
+            ggacttgctttgagttttgctctatttactgtggtgggaagcaatttctctacaacgatt
+
+Target  104 EKLGIDLDSLLVSQPDTGEQALEICDSLVRSNAVDVIVVDSVAALTPKAEIEGDMGDSHV   163
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Query    61 EKLGIDLDSLLVSQPDTGEQALEICDSLVRSNAVDVIVVDSVAALTPKAEIEGDMGDSHV   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gatgagtgatcgtccgaggcgtgatgacgctaggggagggtgggtacaggagggaggtcg
+            aatgtatagtttcacacgaactatgagttgcactattttactcctccacatagatgacat
+            aggtctactaggagtcgtggaaattctggtatctcgtggtcttgattatgcaccgacttg
+
+Target  164 GLQARLMSQALRKITGNVKNANCLVIFINQIRMKIGVMFGSPETTTGGNA   213
+            |||||||||||||||||||||||||||| |||||||||||||||||||||
+Query   121 GLQARLMSQALRKITGNVKNANCLVIFIIQIRMKIGVMFGSPETTTGGNA   170
+Frame       11111111111111111111111111111111111111111111111111
+            gtcgctatcgccaaagagaagatcgataacacaaaggatgacgaaaggag
+            gtacgttcactgatcgataacagttttttatgtatgtttggcacccggac
+            tggggaggaagtatctttattccggtcccgttgaccggttcgaaacttcc
+

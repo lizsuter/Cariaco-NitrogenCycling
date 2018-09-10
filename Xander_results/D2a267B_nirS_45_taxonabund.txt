@@ -1,0 +1,18 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	2.319	0.0178
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	57.173	0.4397
+coded_by=complement(6702..8426),organism=Marinobacter sp. AK21,definition=Cytochrome cd1 nitrite reductase	2.282	0.0175
+coded_by=complement(7721724..7723478),organism=Bradyrhizobium oligotrophicum S58,definition=cytochrome cd1 nitrite reductase	2.433	0.0187
+coded_by=complement(58859..60610),organism=Betaproteobacteria bacterium SG8_41,definition=nitrite reductase	1.782	0.0137
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	60.583	0.4659
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	3.464	0.0266
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(6702..8426),organism=Marinobacter sp. AK21,definition=Cytochrome cd1 nitrite reductase	KEF31766	2.282	0.0175
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ53626	60.583	0.4659
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	AKH22159	3.464	0.0266
+coded_by=complement(58859..60610),organism=Betaproteobacteria bacterium SG8_41,definition=nitrite reductase	KPK19352	1.782	0.0137
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	57.173	0.4397
+coded_by=<1..1622,organism=marine sediment metagenome,definition=hypothetical protein	KKM16877	2.319	0.0178
+coded_by=complement(7721724..7723478),organism=Bradyrhizobium oligotrophicum S58,definition=cytochrome cd1 nitrite reductase	BAM92788	2.433	0.0187

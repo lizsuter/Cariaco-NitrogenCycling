@@ -1,0 +1,5 @@
+#total reads: 27
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+R2a234B_recA_contig_1256_contig_1257	1.629	1.000	415	415	1.000
+R2a234B_recA_contig_1466_contig_1467	2.974	2.000	532	532	1.000

@@ -1,0 +1,9 @@
+#total reads: 179
+#use mean_cov to adjust the contig abundance, not median_cov 
+#seqid	mean_cov	median_cov	total_pos	covered_pos	covered_ratio
+metagenome_recA_contig_9478_contig_9479	5.562	5.500	937	937	1.000
+metagenome_recA_contig_124_contig_125	1.400	1.000	487	487	1.000
+metagenome_recA_contig_1580_contig_1581	2.495	2.000	907	907	1.000
+metagenome_recA_contig_580_contig_581	5.124	5.000	937	937	1.000
+metagenome_recA_contig_1720_contig_1721	1.361	1.000	427	427	1.000
+metagenome_recA_contig_4460_contig_4461	5.506	5.000	940	940	1.000

@@ -1,0 +1,8 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	1.434	0.5155
+coded_by=4982779..4983891,organism=Rhodopseudomonas palustris TIE-1,definition=nitrite reductase, copper-containing	1.348	0.4845
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=4982779..4983891,organism=Rhodopseudomonas palustris TIE-1,definition=nitrite reductase, copper-containing	ACF03114	1.348	0.4845
+coded_by=91778..92896,organism=Nitrosococcus oceani ATCC 19707,definition=dissimilatory nitrite reductase (NO-forming), copper type apoprotein	ABA56624	1.434	0.5155

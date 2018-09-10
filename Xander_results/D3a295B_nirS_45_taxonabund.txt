@@ -1,0 +1,16 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	131.17000000000002	0.4528
+coded_by=complement(10951..12627),organism=Acidithiobacillales bacterium SG8_45,definition=nitrite reductase	5.49	0.0190
+coded_by=complement(2455749..2457380),organism=Oleispira antarctica RB-8,definition=Nitrite reductase	3.713	0.0128
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	129.39600000000002	0.4467
+coded_by=complement(417573..419279),organism=Magnetospirillum sp. XM-1,definition=Nitrite reductase	3.186	0.0110
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	16.744	0.0578
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(50734..52695),organism=Labrenzia alba,definition=Nitrite reductase precursor	CTQ53626	129.39600000000002	0.4467
+coded_by=complement(10951..12627),organism=Acidithiobacillales bacterium SG8_45,definition=nitrite reductase	KPK11659	5.49	0.0190
+coded_by=1967320..1968912,organism=Sedimenticola thiotaurini,definition=nitrite reductase	AKH22159	16.744	0.0578
+coded_by=complement(2455749..2457380),organism=Oleispira antarctica RB-8,definition=Nitrite reductase	CCK76416	3.713	0.0128
+coded_by=complement(417573..419279),organism=Magnetospirillum sp. XM-1,definition=Nitrite reductase	CUW37497	3.186	0.0110
+coded_by=20116..21744,organism=Oleiphilus sp. HI0043,definition=nitrite reductase	KZY30905	131.17000000000002	0.4528

@@ -1,0 +1,8 @@
+Taxon	Abundance	Fraction Abundance
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	2.428	0.5194
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	2.247	0.4806
+
+
+Lineage	MatchName	Abundance	Fraction Abundance
+coded_by=complement(1684400..1685440),organism=Methylophaga nitratireducenticrescens,definition=DNA recombination/repair protein RecA	AFI84487	2.247	0.4806
+coded_by=complement(10037..11077),organism=Methylophaga lonarensis MPL,definition=recombinase A	EMR12940	2.428	0.5194

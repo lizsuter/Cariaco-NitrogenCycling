@@ -1,0 +1,246 @@
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ABO25201	metagenome_nirK_contig_0_contig_1	723	241	71.784	950	0	false
+Target  146 DLHAATGALGGGELTLVSPGQEVTFRFKATKAGTFVYHCAPGGVMIPWHVAMGMHGAIMV   205
+            | || ||| |||||| | ||||| ||||||||| ||||||||| ||| ||  || || ||
+Query     1 DFHASTGAMGGGELTKVAPGQEVVFRFKATKAGVFVYHCAPGGLMIPYHVVSGMNGALMV    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gtcgtaggaggggtaaggcgcgggtctagaagggtgtctgcggtaactcggtgaaggcag
+            atacccgctgggatcatccgaatttgtaccacgtttaagccggtttcaattcgtagcttt
+            ttttttttgtacgacattttaagttctactagattttttcataggttttatcagttttgt
+
+Target  206 LPRDGLKDAEGKPVKYDKAYYIGEADFYVPKDANGKYKAYDTVMGSMSEVLEVMKTLTPS   265
+            ||||||||  |  ||||||||||| ||| |    |||| ||     |       ||| ||
+Query    61 LPRDGLKDEKGELVKYDKAYYIGEQDFYIPSGPEGKYKRYDSTAIAMGDTMKMLKTLLPS   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cccggtaggaggtgatgagttaggcgttactgcggatactgtagagaggaaaacaaccct
+            tcgagtaaaagattaaaacaatgaaatatccgcagaaagaaccctctgactattacttcc
+            aattcaataataagatcactcctggtttctatgaaataattttctgggtaggggaacttt
+
+Target  266 HVVFNGAVGALTGKNAMTAKVGESVLFVHSQANRDTRPHIIGGHGDYVWPAGSFTDAPQT   325
+            | ||||||||||  || |||||| ||| ||||||| ||| |||| | ||  ||| | | |
+Query   121 HIVFNGAVGALTAENALTAKVGEKVLFLHSQANRDSRPHLIGGHADLVWKGGSFNDKPAT   180
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cagtagggggtaggagtagagggagttcctcgacgtccctaggcggtgtaggttagacga
+            atttagctgctccaactccatgaattttacacagacgcattggacattgaggctaaaccc
+            tattttaaccattattaaaattaaaatcctactttaaatgttatatatgggttcttatta
+
+Target  326 NLETWMVAGGSACAALYTFRQPGLYAYVNHNLIEAIIKGAAAHVKVDGEWDDNLMVQLKK   385
+            | ||| |||| | |||| ||||||||||||||||||  |||||  | | |   || ||| 
+Query   181 NYETWFVAGGAAVAALYEFRQPGLYAYVNHNLIEAIMFGAAAHIVVEGKWNHDLMTQLKI   240
+Frame       111111111111111111111111111111111111111111111111111111111111
+            atgattgggggggggttgtaccgctgtgacataggaatggggcaggggatacgcaactaa
+            aaacgttcggcctcctaatgacgtacataaattactttgcccatttagagaaattcatat
+            ttatgttaatgatgtatataaacttttttttataaagttgccttttggggttcagagaaa
+
+Target  386 P   386
+            |
+Query   241 P   241
+Frame       1
+            c
+            c
+            t
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ABO25201	metagenome_nirK_contig_6_contig_7	723	241	71.369	947	0	false
+Target  146 DLHAATGALGGGELTLVSPGQEVTFRFKATKAGTFVYHCAPGGVMIPWHVAMGMHGAIMV   205
+            | || ||| |||||| | ||||| ||||||||| ||||||||| ||| ||  || || ||
+Query     1 DFHASTGAMGGGELTKVAPGQEVVFRFKATKAGVFVYHCAPGGLMIPYHVVSGMNGALMV    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gtcgtaggaggggtaaggcgcgggtctagaagggtgtctgcggtaactcggtgaaggcag
+            atacccgctgggatcatccgaatttgtaccacgtttaagccggtttcaattcgtagcttt
+            ttttttttgtacgacattttaagttctactagattttttcataggttttatcagttttgt
+
+Target  206 LPRDGLKDAEGKPVKYDKAYYIGEADFYVPKDANGKYKAYDTVMGSMSEVLEVMKTLTPS   265
+            ||||||||  |  ||||||||||| ||| |    |||| ||     |       ||| ||
+Query    61 LPRDGLKDEKGELVKYDKAYYIGEQDFYIPSGPEGKYKRYDSTAIAMGDTMKMLKTLLPS   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cccggtaggaggtgatgagttaggcgttactgcggatactgtagagaggaaaacaaccct
+            tcgagtaaaagattaaaacaatgaaatatccgcagaaagaaccctctgactattacttcc
+            aattcaataataagatcactcctggtttctatgaaataattttctgggtaggggaacttt
+
+Target  266 HVVFNGAVGALTGKNAMTAKVGESVLFVHSQANRDTRPHIIGGHGDYVWPAGSFTDAPQT   325
+            | ||||||||||  || |||||| ||| ||||||| ||| |||| | ||  ||| | | |
+Query   121 HIVFNGAVGALTAENALTAKVGEKVLFLHSQANRDSRPHLIGGHADLVWKGGSFNDKPAT   180
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cagtagggggtaggagtagagggagttcctcgacgtccctaggcggtgtaggttagacga
+            atttagctgctccaactccatgaattttacacagacgcattggacattgaggctaaaccc
+            tattttaaccattattaaaattaaaatcctactttaaatgttatatatgggttcttatta
+
+Target  326 NLETWMVAGGSACAALYTFRQPGLYAYVNHNLIEAIIKGAAAHVKVDGEWDDNLMVQLKK   385
+            | ||| |||| | |||| ||||||||||||||||||  || ||  | | |   || ||| 
+Query   181 NYETWFVAGGAAVAALYEFRQPGLYAYVNHNLIEAILFGATAHIVVEGKWNHDLMTQLKI   240
+Frame       111111111111111111111111111111111111111111111111111111111111
+            atgattgggggggggttgtaccgctgtgacataggattggagcaggggatacgcaactaa
+            aaacgttcggcctcctaatgacgtacataaattactttgcccatttagagaaattcatat
+            ttatgttaatgatgtatataaacttttttttataaagttaccttttggggttcagagaaa
+
+Target  386 P   386
+            |
+Query   241 P   241
+Frame       1
+            c
+            c
+            t
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ACF03114	metagenome_nirK_contig_14_contig_15	969	324	67.284	1216	0	false
+Target   41 ELVAPPFVHAHQQATKDGPKVVEFKMVVQEKEVVIDEDGTKFQAMTFNGSMPGPLMVVHE   100
+            ||| || |  | |     ||||  |||  |||  |        | ||||  |||| ||| 
+Query     1 ELVNPPLVPEHSQVAEGPPKVVQIKMVIEEKEIEIAPE-VYVHALTFNGTVPGPLIVVHQ    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gcgacctgcgctcggggccaggcaaagaggagagagcg gtgcgtatagagcgccaggcc
+            attaccttcaacatcagccattatatttaaaatatcca tatactctagctcgcttttaa
+            attttaagagcggttatgaatagtggtcgggatgctta ttatgacctattagttaattg
+
+Target  101 GDYVELTLVNPATNTMPHNIDFHASTGALGGGALTLINPGEQVVLRFKADRSGVFVYHCA   160
+             ||||||||||  | | ||||||||||| ||| ||   ||| |||||||   ||||||||
+Query    61 DDYVELTLVNPSSNSMMHNIDFHASTGAMGGGELTKVSPGEKVVLRFKATKAGVFVYHCA   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            ggtggcacgacatataacaagtcgtaggaggggtaagtcggaggtatagaagggtgtctg
+            aaatatcttacgcacttaatatacccgctgggatcatccgaatttgtaccacgtttaagc
+            tttagataatactctggcttcttactaggtataaaagatggagggacacagatttatctg
+
+Target  161 PGGNMIPWHVVSGMNGAIMVLPRDGLKDRSGKPLRYDRVYYIGEQDMYVPKDQNGKYKAY   220
+            ||| | ||||| ||||||||||||||||  |    |    |||||| | ||| ||||| |
+Query   121 PGGPMVPWHVVHGMNGAIMVLPRDGLKDNNGNAINYSKAFYIGEQDFYIPKDKNGKYKRY   180
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cggcagctcggcgaaggaagtccggtagaagagaattagttaggcgttacagaagataat
+            cggcttcgattagtagcttttcgagtaaaagactaacactatgaaatatcaaaagaaaga
+            taatgcagtcttggtgttgagattaaatttttatttaaattacgacttctatatgataat
+
+Target  221 ASPAESYVDTAEVMRKLIPTHVVFNGKVGALTGKNAMPAKVGETVLIVHSQANRDTRPHL   280
+              | | |    |||  | | ||||||||| ||| ||  | || |||  | ||||   |||
+Query   181 TTPIEGYIEELEVMKTLQPSHVVFNGKVGSLTGENALKANVGDTVLFIHEQANRQSYPHL   240
+Frame       111111111111111111111111111111111111111111111111111111111111
+            aacaggtaggtggaaaccctcggtagaggtcaggagtagagggagttacgcgaccttccc
+            ccctagataatattactaccatttagatgctcgaactacatgacttttaaacagacacat
+            acatgattggagcgagaaatttttctagatttgatcaaatagtatgtttaaattatcata
+
+Target  281 IGGHGDYVWETGKFANPPETNLETWFIRGGSAGAALYTFKQPGVYAYLNHNLIEAIELGA   340
+            |||||||||| | |  || |||| | |  |||||  ||||||| |||||||||||  |||
+Query   241 IGGHGDYVWERGNFSDPPQTNLESWVIGAGSAGASIYTFKQPGLYAYLNHNLIEAFLLGA   300
+Frame       111111111111111111111111111111111111111111111111111111111111
+            aggcggtgtgcgattgcccaatgatgagggtgggtatataccgctgtcacataggttcgg
+            tggagaatgaggatcaccacataggttgcgccgcctactaacgtacataaattactttgc
+            tcttttttgaatttatataatagtgtttatataaaacatgaagttttatctgtgatatat
+
+Target  341 TAHFKVDGKWNDDLMKQVSAPGPI   364
+             ||  ||| || ||| ||| | ||
+Query   301 AAHIVVDGEWNNDLMEQVSKPSPI   324
+Frame       111111111111111111111111
+            ggcagggggtaagtagcgtactca
+            ccatttagagaaattaatcaccct
+            atttttttagttcagaattataga
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	EEH13611	metagenome_nirK_contig_68_contig_69	672	224	68.750	853	0	false
+Target  195 EKTVLRFKATKPGVFVYHCAPPG-MVPWHVVSGMNGAVMVLPREGLHDGKGNKLTYDKVY   254
+            |   || || ||||||||||| | ||||||| ||||||||||| || |  |   |||| |
+Query     1 EAVILRWKAIKPGVFVYHCAPGGSMVPWHVVKGMNGAVMVLPRDGLKDRNGKPITYDKAY    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gggatatagaacggtgtctgcggtagctcggagaagggagccaggcagcagacaatgagt
+            actttggactacgtttaagccggcttcgattagtagcttttcgagtaagagactcaaaca
+            aaaaaagaaaattattttttataggttgtaaatgttctgttaatgtatatgaaattcaat
+
+Target  255 YVGEQDFYVPRDENGNYKTYEAPGDAYEDTVKVMRTLTPTHVVFNGAVGALTGDKALTAK   314
+            | |||||| |    ||||    |||       || |||||||||||||| | |  |||||
+Query    61 YIGEQDFYIPKNSEGNYKEFIHPGDGFSEVLEVMKTLTPTHVVFNGAVGSLEGENALTAK   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            taggcgttacaatggatagtaccgggtaggtggaaatacacggtaggggtcgggagtaga
+            atgaaatatcaacagaaaattacgagtgattattactcccatttagctgctagaactcca
+            ctaagtttaaataaattaatattatattatgaggaaagatttattattttaaaattatta
+
+Target  315 VGEKVLIIHSQANRDTRPHLIGGHGDYVWATGKFNTPPDVDQETWFIPGGAAAAAFYTFR   374
+            ||| || || |||||||||||||||||||  | || ||    |||||||||| |  | ||
+Query   121 VGETVLFIHAQANRDTRPHLIGGHGDYVWPNGSFNDPPRTNLETWFIPGGAAGAMIYKFR   180
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gggagctacgcgaagaccctaggcggtgtcagttagccaaacgattacggggggaatata
+            tgacttttacacagacgcattggagaatgcagctaaccgcatacgttcggccgcttaatg
+            taaatgtccaatcatttacataatcctcgttattttatatttaagtaaaaattggttata
+
+Target  375 QPGIYAYVNHNLIEAFELGAAAHFKVTGEWNDDLMTSILAPSGM   418
+            ||| | | |||||||| ||| |  || | ||||||     |   
+Query   181 QPGTYLYLNHNLIEAFILGAKAEVKVKGKWNDDLMKQVMEPTPI   224
+Frame       11111111111111111111111111111111111111111111
+            ccgatcttacataggtatggagggagagataggtaacgagcaca
+            acgcatataaattactttgcacatatagagaaattaattaccct
+            aaattttactcatattaacaaaatatatagtttaggatgaaaaa
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ABO25201	metagenome_nirK_contig_106_contig_107	504	168	72.619	672	0	false
+Target  146 DLHAATGALGGGELTLVSPGQEVTFRFKATKAGTFVYHCAPGGVMIPWHVAMGMHGAIMV   205
+            | || ||| |||||| | ||||| ||||||||| ||||||||| ||| ||  || || ||
+Query     1 DFHASTGAMGGGELTKVAPGQEVVFRFKATKAGVFVYHCAPGGLMIPYHVVSGMNGALMV    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gtcgtaggaggggtaaggcgcgggtctagaagggtgtctgcggtaactcggtgaaggcag
+            atacccgctgggatcatccgaatttgtaccacgtttaagccggtttcaattcgtagcttt
+            ttttttttgtacgacattttaagttctactagattttttcataggttttatcagttttgt
+
+Target  206 LPRDGLKDAEGKPVKYDKAYYIGEADFYVPKDANGKYKAYDTVMGSMSEVLEVMKTLTPS   265
+            ||||||||  |  ||||||||||| ||| |    |||| ||     |         | ||
+Query    61 LPRDGLKDEKGELVKYDKAYYIGEQDFYIPSGPEGKYKRYDSTAIAMGDTMQMLRKLLPS   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            cccggtaggaggtgatgagttaggcgttactgcggatactgtagagaggaacacaaccct
+            tcgagtaaaagattaaaacaatgaaatatccgcagaaagaaccctctgactattgattcc
+            aattcaataataagatcactcctggtttctatgaaataattttctggttaggggaaattt
+
+Target  266 HVVFNGAVGALTGKNAMTAKVGESVLFVHSQANRDTRPHIIGGHGDYV   313
+            | ||||||||||||||||||||| ||| ||||||| ||| |||| | |
+Query   121 HIVFNGAVGALTGKNAMTAKVGEKVLFLHSQANRDSRPHLIGGHADLV   168
+Frame       111111111111111111111111111111111111111111111111
+            cagtagggggtagaagaagagggagttcctcgacgtacctaggcggtg
+            atttagctgctcgaactccatgaattttacacagacgcattggacatt
+            tagtttacccgccattgtaattaatgtcctattctagatattatatat
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ABA56624	metagenome_nirK_contig_288_contig_289	477	159	84.277	705	0	false
+Target   35 HANLKDLERVRQELVAPPHLPDHQQAYSGKPRIVEIEMVIEEKEVEIEPNVFVQAMTFNG    94
+             |||  |||| | ||||| || ||| ||||||| |||| ||||| |||| ||||||||||
+Query     1 EANLHGLERVKQTLVAPPFLPKHQQQYSGKPRIIEIEMIIEEKEIEIEPDVFVQAMTFNG    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            ggatcgtgcgacacggccttcaccccttgacaaagagaaaggagagagcggtgcgaatag
+            acatagtagtaacttcccttcaaaaaacgacgttatatttaaaatatacatttactctag
+            gtcgtaagttaaagagattacataaattcgcactaaagttgaaaaatgattccggggttc
+
+Target   95 TNPGPIIVVHEGDYVELTLKNLDTNMLLHNIDFHPATGALGGGALTKVAPGQQVTLRFKA   154
+            ||||| ||||||||||||||| ||| ||||||||  ||||||||||||||| ||||||||
+Query    61 TNPGPMIVVHEGDYVELTLKNPDTNFLLHNIDFHASTGALGGGALTKVAPGEQVTLRFKA   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            aacgcaaggcgggtggcacaacgaatttcaagtcgtaggtggggcaaggcggcgatctag
+            cacgcttttaagaatatctaacacatttaatatacccgctgggctcatccgaatctgtac
+            ctaaggttctgatttaaacactttttagtttttcgaatcactacacaccaagattgttac
+
+Target  155 DKAGTYVYHCAPGGLMTPYHVVSGMYGAIMIFPKKGLRD   193
+            || || |||||||||| |||||||||||||| |  || |
+Query   121 DKPGTFVYHCAPGGLMIPYHVVSGMYGAIMILPRDGLID   159
+Frame       111111111111111111111111111111111111111
+            gacgatgtctgcggcaactcggtgatggaaatccggcag
+            aacgcttaagccggtttcaattcgtagcttttcgagtta
+            tgtttctccttacttgtcttgcacgtcttgcaaatgtat
+
+>	Target	Query	NuclLen	AlignLen	%Identity	Score	Frameshifts	Reversed
+STATS	ACF03114	metagenome_nirK_contig_292_contig_293	474	158	67.722	605	0	false
+Target   58 GPKVVEFKMVVQEKEVVIDEDGTKFQAMTFNGSMPGPLMVVHEGDYVELTLVNPATNTMP   117
+            ||||    | | ||   ||  ||||    || | |||  | | ||| ||||| |  |   
+Query     1 GPKVIKVRMTVTEKVITIDKEGTKFRVFAFNDSVPGPIIVAHVGDYIELTLVSPKKNNFE    60
+Frame       111111111111111111111111111111111111111111111111111111111111
+            gcagaagaaagagagaaagaggaatagtgtagtgcgcaaggcgggtagcatgacaaaatg
+            gcattatgtctcaattctaaagcatgttctaactcgctttcatgaatatcttgcaaaata
+            tagtcatagattaaattataataataacttctttaaatctttaatctattgtctaattta
+
+Target  118 HNIDFHASTGALGGGALTLINPGEQVVLRFKADRSGVFVYHCAPGGNMIPWHVVSGMNGA   177
+            ||||||||||||||| || | ||| | || ||   ||||||||||| | ||||| |||||
+Query    61 HNIDFHASTGALGGGGLTHILPGEAVILRWKATKPGVFVYHCAPGGAMVPWHVVKGMNGA   120
+Frame       111111111111111111111111111111111111111111111111111111111111
+            caagtcgtaggtggggtacaccggggatatagaacggtgtctgcgggagctcggagaagg
+            aatatacccgctggggtcattcgactttggaccacgtttaagccggcttcgattagtagc
+            ttttttaatatgtaagatcatttatttaagaaaaaaattttttaatcgtggcttaagctt
+
+Target  178 IMVLPRDGLKDRSGKPLRYDRVYYIGEQDMYVPKDQNG   215
+             | ||||||||| |    ||  ||||||| ||||| ||
+Query   121 VMILPRDGLKDRNGNSITYDKAYYIGEQDFYVPKDSNG   158
+Frame       11111111111111111111111111111111111111
+            gaacccggcagcagataatgagttaggcgttgcagtag
+            ttttcgagtaagagactcaaacaatgaaatatcaacag
+            agtttatctatacttaaatcattttgaattttaattta
+
